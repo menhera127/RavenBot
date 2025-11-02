@@ -1,6 +1,6 @@
 {
 	"facebookAccount": {
-		"email": "KYLE.BOT507",
+		"email": "https://www.facebook.com/KYLE.BOTV5",
 		"password": "TSHOLOFELO",
 		"2FASecret": "",
 		"i_user": "",
@@ -19,7 +19,7 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"61578880754625",
+		"100009290756388",
 		"61578831083228"
 	],
 	"whiteListMode": {
